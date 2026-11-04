@@ -1,0 +1,92 @@
+[
+  {
+    "sku": "2200107",
+    "name": "Rodo Spider Branco Aplicação Insulfilm PPF",
+    "group": "espatulas",
+    "label": "Espátulas e rodos"
+  },
+  {
+    "sku": "220112",
+    "name": "Espátula Gold Squeegee p/ Instalação de Insufilm",
+    "group": "espatulas",
+    "label": "Espátulas e rodos"
+  },
+  {
+    "sku": "2200120",
+    "name": "Mini Rodinho 22cm 6cm Rígido Insulfilm & PPF",
+    "group": "espatulas",
+    "label": "Espátulas e rodos"
+  },
+  {
+    "sku": "2200101",
+    "name": "Espátula KTM Pá Aplicação Insulfilm PPF",
+    "group": "espatulas",
+    "label": "Espátulas e rodos"
+  },
+  {
+    "sku": "220134",
+    "name": "Borracha KTM Amarela 13x5cm Macia para Insulfilm e PPF",
+    "group": "borrachas",
+    "label": "Borrachas e feltros"
+  },
+  {
+    "sku": "220113",
+    "name": "Feltros Verde Neon Autocolante p/ Películas e Adesivos 10 unidades",
+    "group": "borrachas",
+    "label": "Borrachas e feltros"
+  },
+  {
+    "sku": "220018",
+    "name": "Borracha Reposição p/ Rodo Longo Squeegee 13cm",
+    "group": "borrachas",
+    "label": "Borrachas e feltros"
+  },
+  {
+    "sku": "2200118",
+    "name": "Lâmina OLFA AB-50S Inox 9mm 50 Unidades Original",
+    "group": "corte",
+    "label": "Lâminas e corte"
+  },
+  {
+    "sku": "2200117",
+    "name": "Lâmina OLFA LB-10 18mm 10 Unidades Original",
+    "group": "corte",
+    "label": "Lâminas e corte"
+  },
+  {
+    "sku": "220194",
+    "name": "Linha de Corte Insufilm Designlina 10 Metros profissional",
+    "group": "corte",
+    "label": "Lâminas e corte"
+  },
+  {
+    "sku": "2200131",
+    "name": "Lâmina 9mm Aço Carbono Profissional 100 Unidades",
+    "group": "corte",
+    "label": "Lâminas e corte"
+  },
+  {
+    "sku": "220009",
+    "name": "Bolsa Magnética 18x15x2cm p/ Ferramentas de Aplicação",
+    "group": "acessorios",
+    "label": "Acessórios e kits"
+  },
+  {
+    "sku": "220192",
+    "name": "Capa Impermeável Forração Porta Automotiva",
+    "group": "acessorios",
+    "label": "Acessórios e kits"
+  },
+  {
+    "sku": "220189",
+    "name": "Kit Ferramentas Detalhamento 5 Peças Profissional",
+    "group": "acessorios",
+    "label": "Acessórios e kits"
+  },
+  {
+    "sku": "2200138",
+    "name": "Kit 2 Capas Impermeáveis Forração Porta Automotiva",
+    "group": "acessorios",
+    "label": "Acessórios e kits"
+  }
+]

@@ -1,0 +1,6 @@
+import {readFile,access} from 'node:fs/promises';import path from 'node:path';import {fileURLToPath} from 'node:url';import assert from 'node:assert/strict';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..'),html=await readFile(path.join(root,'index.html'),'utf8'),products=JSON.parse(await readFile(path.join(root,'products.json'),'utf8'));
+assert.ok(products.length>=8,'Seleção incompleta');const skus=new Set();for(const p of products){assert.ok(p.sku&&p.name&&['espatulas','borrachas','corte','acessorios'].includes(p.group));assert.ok(!skus.has(p.sku),'Código duplicado');skus.add(p.sku);assert.deepEqual(Object.keys(p).sort(),['group','label','name','sku']);}
+for(const match of html.matchAll(/(?:href|src)="(\/[^"#?]+)"/g))await access(path.join(root,match[1].slice(1)));
+const ids=new Set([...html.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]));for(const match of html.matchAll(/href="#([^"]+)"/g))assert.ok(ids.has(match[1])||match[1]==='privacidade','Âncora sem destino: '+match[1]);
+assert.ok(html.includes('lang="pt-BR"'));assert.ok(html.includes('name="viewport"'));assert.ok(!/localhost:3210|access-token|crm.sqlite|Splink/.test(html));JSON.parse(await readFile(path.join(root,'vercel.json'),'utf8'));console.log(`Verificação concluída: ${products.length} produtos públicos, recursos e links internos válidos.`);

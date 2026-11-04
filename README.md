@@ -1,22 +1,22 @@
 # Prospper Imports LTDA
 
-Site institucional da Prospper Imports, CNPJ 55.013.556/0001-04. Atendimento no atacado e varejo para todo o Brasil.
+Site público: https://prospper-imports.vercel.app
+CNPJ informado pelo proprietário: 55.013.556/0001-04.
 
-- WhatsApp e catálogo: https://wa.me/553496315100 / https://wa.me/c/553496315100
-- Instagram: https://www.instagram.com/prospperimports
-- Logos fornecidas pelo proprietário; capa automotiva ilustrativa. Tipografia Barlow e Barlow Condensed com licenças incluídas.
-- Seleção de 15 produtos reais. Preços e disponibilidade são confirmados no atendimento.
+## Conteúdo e SEO
 
-## Desenvolvimento
+158 produtos reais, 4 categorias, catálogo paginado, diretórios dos 27 estados e seleção das 5.571 cidades do IBGE. São 201 páginas HTML, 199 indexáveis. A página local de Uberlândia contém apenas condições informadas pela empresa. Não existem filiais inventadas nem páginas produto/cidade duplicadas.
 
-Node.js 20+: `npm run dev`, abrir http://127.0.0.1:4173. Verificar com `npm run check`.
+Canonical, títulos, descrições, breadcrumbs, Organization, Product/Offer quando há preço conhecido, robots e sitemaps publicados. Preços e disponibilidade são referências da planilha de 04/11/2026; sem reserva automática. Fotos de produtos não foram inventadas. Capa automotiva ilustrativa; logos fornecidas pelo proprietário. Fontes Barlow com licenças incluídas.
 
-## Atualização
+## Desenvolvimento e atualização
 
-Textos em `index.html`, layout em `style.css`, catálogo da seleção em `products.json`, interações em `app.js` e identidade visual em `assets/`.
+Node.js 20+: `npm run build`, `npm run check`, `npm run dev`. A prévia serve dist em http://127.0.0.1:4173.
+Dados públicos em data/catalog.json; cidades em data/cities.json.gz. Renderização em src/seo.mjs e scripts/build.mjs. Nenhum banco privado, credencial ou sessão do WhatsApp faz parte deste projeto.
 
 ## Vercel
 
-Importar este repositório, branch `main`, preset Other, sem comando de build ou instalação e output directory `.`. Não são necessárias variáveis de ambiente para esta versão institucional. Vincular o GitHub à Vercel para atualizações automáticas nos próximos commits.
+Hospedagem exclusiva na Vercel. Firebase foi descartado por solicitação do proprietário. Para importar o código-fonte: preset Other, build `npm run build`, output `dist`. A publicação atual foi feita com os arquivos estáticos gerados. A integração automática GitHub → Vercel ainda não está vinculada; commits isolados não publicam alterações automaticamente.
 
-O projeto não contém banco, clientes, credenciais ou sessões do atendimento WhatsApp. A expansão de SEO e Firebase será realizada depois da primeira publicação, conforme solicitado.
+Search Console ainda não foi vinculado. Sitemap: https://prospper-imports.vercel.app/sitemap.xml. Publicação e sitemap não garantem indexação imediata ou posição nas buscas.
+

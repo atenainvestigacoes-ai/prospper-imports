@@ -1,0 +1,7 @@
+{
+  "catalog": "Duas planilhas fornecidas pelo operador",
+  "cities": "https://servicodados.ibge.gov.br/api/v1/localidades/municipios?orderBy=nome",
+  "date": "2026-11-04",
+  "products": 158,
+  "citiesCount": 5571
+}

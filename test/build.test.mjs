@@ -1,0 +1,12 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {readFile,access} from 'node:fs/promises';import {execFileSync} from 'node:child_process';import path from 'node:path';import {fileURLToPath} from 'node:url';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+test('build publica HTML de todos os produtos e cobertura nacional sem páginas locais inventadas',async()=>{
+ execFileSync(process.execPath,['scripts/build.mjs'],{cwd:root});const report=JSON.parse(await readFile(path.join(root,'dist/build-report.json'),'utf8'));assert.equal(report.products,158);assert.equal(report.states,27);assert.ok(report.cities>5500);assert.ok(report.pages>=200);
+ const titles=new Set(),descriptions=new Set();for(const route of report.routes){const file=route==='/'?'index.html':route.endsWith('/')?route.slice(1)+'index.html':route.slice(1);const html=await readFile(path.join(root,'dist',file),'utf8');assert.equal((html.match(/<h1(?:\s|>)/g)||[]).length,1,route+' precisa de um H1');if(route.startsWith('/produtos/')){const title=html.match(/<title>(.*?)<\/title>/s)[1],description=html.match(/name="description" content="([^"]*)"/)[1];assert.ok(!titles.has(title),'Título repetido');assert.ok(!descriptions.has(description),'Descrição repetida');titles.add(title);descriptions.add(description);assert.ok(html.includes('Prospper Imports LTDA'));assert.ok(!html.includes('aggregateRating'));}
+  for(const m of html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g))JSON.parse(m[1]);
+ }
+ assert.equal(titles.size,158);const local=report.routes.filter(r=>r.startsWith('/atendimento/')&&r.split('/').filter(Boolean).length>2);assert.deepEqual(local,['/atendimento/mg/uberlandia/']);
+ const robots=await readFile(path.join(root,'dist/robots.txt'),'utf8');assert.match(robots,/Sitemap: https:\/\/prospper-imports.vercel.app\/sitemap.xml/);await access(path.join(root,'dist/404.html'));
+ const cities=JSON.parse(await readFile(path.join(root,'dist/cities.json'),'utf8'));assert.equal(cities.length,report.cities);assert.equal(new Set(cities.map(c=>c.id)).size,cities.length);
+ for(const name of ['sitemap-produtos.xml','sitemap-catalogo.xml','sitemap-atendimento.xml','sitemap-site.xml']){const xml=await readFile(path.join(root,'dist',name),'utf8');for(const m of xml.matchAll(/<loc>https:\/\/prospper-imports.vercel.app([^<]+)<\/loc>/g))assert.ok(report.routes.includes(m[1]),'URL do sitemap sem página');assert.ok(!xml.includes('/privacidade/'));assert.ok(!xml.includes('/404.html'));}
+});

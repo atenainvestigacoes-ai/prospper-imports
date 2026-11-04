@@ -1,0 +1,5 @@
+{
+  "siteUrl": "https://prospper-imports.vercel.app",
+  "snapshotDate": "2026-11-04",
+  "citySource": "https://servicodados.ibge.gov.br/api/v1/localidades/municipios?orderBy=nome"
+}

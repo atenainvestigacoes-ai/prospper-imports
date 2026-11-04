@@ -1,1 +1,15 @@
-{"name":"prospper-imports-institucional","version":"1.0.0","private":true,"description":"Site institucional da Prospper Imports","scripts":{"dev":"node scripts/serve.mjs","check":"node --check app.js && node scripts/check.mjs"},"engines":{"node":">=20"}}
+{
+  "name": "prospper-imports-institucional",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site institucional da Prospper Imports",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "check": "node --check app.js && node --check pages.js && node scripts/check.mjs && node --test test/*.test.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

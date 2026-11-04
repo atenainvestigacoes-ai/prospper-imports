@@ -1,0 +1,3004 @@
+[
+  {
+    "sku": "220002",
+    "nome": "Borrifador Profissional 360° 750ml para PPF e Filme",
+    "preco": 150.42,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "11,00",
+      "Altura do Produto": "28,00",
+      "Profundidade do produto": "11,00"
+    }
+  },
+  {
+    "sku": "220003",
+    "nome": "Cor:Verde Água",
+    "preco": 150.42,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "11,00",
+      "Altura do Produto": "28,00",
+      "Profundidade do produto": "11,00"
+    },
+    "parentSku": "220002"
+  },
+  {
+    "sku": "220004",
+    "nome": "Cor:Vinho",
+    "preco": 150.42,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "11,00",
+      "Altura do Produto": "28,00",
+      "Profundidade do produto": "11,00"
+    },
+    "parentSku": "220002"
+  },
+  {
+    "sku": "220006",
+    "nome": "Espátula  Aplicação de Insulfilm, PPF e Adesivos Dureza 80%",
+    "preco": 33,
+    "estoque": 30,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220007",
+    "nome": "Espátula Aplicação de Insulfilm, PPF e Adesivos Dureza 60%",
+    "preco": 33,
+    "estoque": 24,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220008",
+    "nome": "Bolsa Reforçada p/ Espátulas e Ferramentas 25x19cm",
+    "preco": 76.32,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "19,00",
+      "Altura do Produto": "2,00",
+      "Profundidade do produto": "25,00"
+    }
+  },
+  {
+    "sku": "220009",
+    "nome": "Bolsa Magnética 18x15x2cm p/ Ferramentas de Aplicação",
+    "preco": 89,
+    "estoque": 28,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "18,00",
+      "Altura do Produto": "15,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "2200100",
+    "nome": "Raspador Longo 38cm com Lâmina de 10cm – c/1 Lâmina Extra",
+    "preco": 51,
+    "estoque": 37,
+    "ativo": true,
+    "descricao": "Raspador de Cabo Longo 30cm com Lâmina de 10cm – Acompanha 1 Lâmina Extra Ferramenta profissional indicada para remoção de insulfilm, películas e resíduos em vidros automotivos, residenciais e comerciais. O cabo longo de 30cm facilita o alcance em áreas altas ou difíceis, trazendo mais conforto e agilidade no trabalho.",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "2200101",
+    "nome": "Espátula KTM Pá Aplicação Insulfilm PPF",
+    "preco": 15,
+    "estoque": 23,
+    "ativo": true,
+    "descricao": "Espátula KTM Pá Amarela para Aplicação de Insulfilm e PPF Ferramenta profissional indicada para aplicação, acomodação e acabamento de películas automotivas e arquitetônicas. O formato tipo “pá” proporciona maior área de contato, facilitando a remoção de água e bolhas durante a instalação da película. Leve, resistente e prática para uso diário, sendo ideal tanto para iniciantes quanto para profissionais experientes. Especificações Técnicas Marca: KTM Modelo: Pá Cor: Amarela Indicação: Insulfilm, Película Arquitetônica e PPF Uso: Profissional Benefícios • Maior área de aplicação • Excelente remoção de água • Fácil manuseio • Alta durabilidade • Ferramenta essencial para bancada",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "1,50",
+      "Altura do Produto": "17,50",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "2200102",
+    "nome": "Afia Espátula e Borracha de Rodo Profissional",
+    "preco": 30,
+    "estoque": 26,
+    "ativo": true,
+    "descricao": "Amolador de Espátula e Borracha de Rodo – Uso Profissional Ferramenta manual indicada para manutenção e recuperação do fio de espátulas e borrachas de rodo utilizadas na aplicação de Insulfilm, Película Arquitetônica e PPF. Permite restaurar o corte e nivelamento da borracha, aumentando a vida útil das ferramentas e garantindo melhor acabamento na aplicação. Ideal para instaladores que desejam manter alto padrão de desempenho sem necessidade de substituição constante das peças. Especificações Técnicas Tipo: Amolador manual Indicação: Espátulas e borrachas de rodo Uso: Insulfilm, Película Arquitetônica e PPF Aplicação: Profissional Benefícios • Prolonga a vida útil das borrachas • Mantém corte uniforme • Evita troca constante de ferramentas • Melhora o acabamento na aplicação • Ferramenta essencial de manutenção",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "1,50",
+      "Altura do Produto": "17,50",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "2200103",
+    "nome": "Espátula KTM 10x10cm Amarela Insulfilm PPF",
+    "preco": 10,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "Espátula KTM 10x10cm Amarela para Aplicação de Insulfilm e PPF Ferramenta profissional indicada para aplicação e acomodação de películas automotivas e arquitetônicas. Com tamanho 10x10cm, proporciona excelente controle na remoção de água e bolhas durante a aplicação, sendo ideal para uso geral em superfícies planas e áreas médias. Leve, resistente e prática para o dia a dia do instalador. Especificações Técnicas Marca: KTM Modelo: 10x10cm Cor: Amarela Indicação: Insulfilm, Película Arquitetônica e PPF Uso: Profissional Benefícios • Ideal para uso geral • Excelente remoção de água • Fácil manuseio • Alta durabilidade • Ferramenta essencial de bancada",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "1,50",
+      "Altura do Produto": "17,50",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "2200104",
+    "nome": "Espátula KTM 10x10cm  Azul – Aplicação de Películas",
+    "preco": 10,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "Espátula KTM 10x10cm para Aplicação de Películas Espátula profissional indicada para aplicação de películas e window film automotivo, residencial e comercial. Possui excelente desempenho na remoção de água e bolhas, garantindo acabamento limpo e uniforme durante a aplicação. Disponível em cores diferentes apenas para identificação visual, sem alteração de dureza ou flexibilidade . Ideal para instaladores que buscam praticidade, padronização no trabalho e resultado profissional no dia a dia.",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "1,50",
+      "Altura do Produto": "17,50",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "2200105",
+    "nome": "Raspador Ratinho Trava Giratória Reservatório",
+    "preco": 39,
+    "estoque": 12,
+    "ativo": true,
+    "descricao": "Raspador Ratinho Profissional com Trava Giratória e Reservatório de Lâminas Ferramenta profissional indicada para remoção de Insulfilm, resíduos de cola e sujeiras aderidas em vidros. Possui sistema de trava giratória que proporciona maior segurança durante o uso, além de reservatório interno para armazenamento de lâminas, trazendo mais praticidade no dia a dia do instalador. Ideal para serviços automotivos e aplicação de películas arquitetônicas e PPF. Especificações Técnicas Tipo: Raspador profissional Sistema: Trava giratória Extra: Reservatório interno para lâminas Indicação: Remoção de Insulfilm, cola e resíduos Uso: Profissional Benefícios • Maior segurança com trava giratória • Armazena lâminas no próprio corpo • Estrutura resistente e durável • Ideal para preparação de superfície • Uso profissional",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "2200106",
+    "nome": "Espátula Rabo de Peixe Amarela Insulfilm PPF",
+    "preco": 21,
+    "estoque": 9,
+    "ativo": true,
+    "descricao": "Espátula Rabo de Peixe Amarela para Instalação de Insulfilm e PPF Ferramenta profissional indicada para aplicação, acomodação e acabamento de películas automotivas e arquitetônicas. O formato “rabo de peixe” facilita o trabalho em cantos, bordas e áreas curvas, proporcionando melhor controle e remoção eficiente de água durante a aplicação. Leve, resistente e prática para o dia a dia do instalador. Especificações Técnicas Modelo: Rabo de Peixe Cor: Amarela Indicação: Insulfilm, Película Arquitetônica e PPF Uso: Profissional Benefícios • Ideal para cantos e bordas • Excelente controle na aplicação • Auxilia na remoção de água • Não danifica a película • Alta durabilidade",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "1,50",
+      "Altura do Produto": "17,50",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "2200107",
+    "nome": "Rodo Spider Branco Aplicação Insulfilm PPF",
+    "preco": 33,
+    "estoque": 38,
+    "ativo": true,
+    "descricao": "Rodo Spider Branco com Borracha para Aplicação de Insulfilm e PPF Ferramenta profissional indicada para aplicação de Insulfilm, Película Arquitetônica e PPF. O modelo Spider possui formato ergonômico que proporciona maior firmeza e controle durante a aplicação, facilitando a remoção de água e bolhas em áreas médias e amplas. Ideal para instaladores que buscam produtividade e acabamento uniforme. Especificações Técnicas Modelo: Spider Cor: Branco Indicação: Insulfilm, Película Arquitetônica e PPF Uso: Profissional Benefícios • Formato ergonômico • Excelente controle na aplicação • Remoção eficiente de água • Ideal para áreas maiores • Alta durabilidade",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "15,00",
+      "Altura do Produto": "18,50",
+      "Profundidade do produto": "4,00"
+    }
+  },
+  {
+    "sku": "2200108",
+    "nome": "Caixa Zaru - 470x265x120",
+    "preco": 0.01,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "",
+    "atributos": {
+      "Unidade": "Un",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "27,00",
+      "Altura do Produto": "12,00",
+      "Profundidade do produto": "47,00"
+    }
+  },
+  {
+    "sku": "2200109",
+    "nome": "Caixa Zaru - 24x17x5",
+    "preco": 0.01,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "",
+    "atributos": {
+      "Unidade": "Un",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "17,00",
+      "Altura do Produto": "5,00",
+      "Profundidade do produto": "24,00"
+    }
+  },
+  {
+    "sku": "220011",
+    "nome": "Suporte kit 2 peças  Porta e Porta-Malas p/ Aplicação Películas",
+    "preco": 123,
+    "estoque": 17,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "5,00",
+      "Profundidade do produto": "27,00"
+    }
+  },
+  {
+    "sku": "2200110",
+    "nome": "Caixa Zaru - 33x22x6",
+    "preco": 0.01,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "",
+    "atributos": {
+      "Unidade": "Un",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "22,00",
+      "Altura do Produto": "6,00",
+      "Profundidade do produto": "33,00"
+    }
+  },
+  {
+    "sku": "2200111",
+    "nome": "Raspador Ratinho Metal Remoção Cola Insulfilm Profissional",
+    "preco": 40,
+    "estoque": 9,
+    "ativo": true,
+    "descricao": "Raspador Ratinho de Metal para Remoção de Cola e Insulfilm – Uso Profissional Ferramenta profissional indicada para remoção de resíduos de cola, película antiga e sujeiras aderidas em vidros. Fabricado em metal resistente, proporciona firmeza e maior controle durante o uso, facilitando a limpeza e preparação da superfície antes da aplicação de Insulfilm e PPF. Ideal para instaladores automotivos e profissionais de película arquitetônica. Especificações Técnicas Tipo: Raspador profissional Material: Metal Indicação: Remoção de cola, película e resíduos Uso: Insulfilm, Película Arquitetônica e PPF Benefícios • Remoção eficiente de cola e resíduos • Estrutura resistente e durável • Ideal para preparação de superfície • Uso profissional • Fácil troca de lâmina",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "2200112",
+    "nome": "Espátula Triangular Flexível 70A Window Film PPF",
+    "preco": 32,
+    "estoque": 28,
+    "ativo": true,
+    "descricao": "Espátula Triangular Flexível 70A para Window Film e PPF Ferramenta profissional indicada para acabamento delicado e acomodação da película em áreas sensíveis. Com rigidez 70A (flexível), proporciona maior adaptação à superfície, reduzindo risco de marcação e garantindo acabamento mais suave. Ideal para instaladores de Insulfilm, Película Arquitetônica e PPF que buscam precisão em áreas curvas e detalhes finos. Especificações Técnicas Modelo: Espátula Triangular Rigidez: 70A (Flexível) Cor: Azul Indicação: Window Film, Insulfilm e PPF Uso: Profissional Benefícios • Ideal para acabamento delicado • Maior adaptação a superfícies curvas • Reduz risco de marcação • Excelente controle em detalhes • Alta durabilidade",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "2200113",
+    "nome": "Espátula Triangular Rígida 90A Window Film PPF",
+    "preco": 32,
+    "estoque": 72,
+    "ativo": true,
+    "descricao": "Espátula Triangular Rígida 90A para Window Film e PPF Ferramenta profissional indicada para aplicação, acabamento e pressão em áreas de difícil acesso. Com formato triangular e rigidez 90A (rígida), permite maior força na acomodação da película em cantos internos, frisos e encaixes mais profundos. Ideal para instaladores de Insulfilm, Película Arquitetônica e PPF que precisam de precisão e firmeza no acabamento. Especificações Técnicas Modelo: Espátula Triangular Rigidez: 90A (Rígida) Cor: Preta Indicação: Window Film, Insulfilm e PPF Uso: Profissional Benefícios • Ideal para cantos internos • Maior pressão na aplicação • Excelente encaixe em frisos • Não deforma facilmente • Alta durabilidade",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "2200114",
+    "nome": "Espátula Canto Média 80A Window Film PPF",
+    "preco": 28,
+    "estoque": 15,
+    "ativo": true,
+    "descricao": "Espátula de Canto Média 80A para Window Film e PPF Ferramenta profissional indicada para aplicação e acabamento em cantos, frisos e áreas de difícil acesso. Com rigidez 80A (média), oferece equilíbrio ideal entre flexibilidade e pressão, proporcionando excelente controle na acomodação da película sem danificar o material. Indicada para instaladores de Insulfilm, Película Arquitetônica e PPF que buscam versatilidade no dia a dia. Especificações Técnicas Modelo: Espátula de Canto Rigidez: 80A (Média) Cor: Laranja Indicação: Window Film, Insulfilm e PPF Uso: Profissional Benefícios • Equilíbrio entre flexibilidade e firmeza • Ideal para cantos e frisos • Excelente controle na aplicação • Não agride a película • Alta durabilidade",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "2200115",
+    "nome": "Espátula Canto Rígida 90A Window Film PPF",
+    "preco": 28,
+    "estoque": 35,
+    "ativo": true,
+    "descricao": "Espátula de Canto Rígida 90A para Window Film e PPF Ferramenta profissional indicada para acabamento e aplicação em cantos, frisos e áreas de difícil acesso. Fabricada com rigidez 90A, oferece maior pressão e precisão durante a aplicação, auxiliando na remoção de água e melhor acomodação da película. Ideal para instaladores de Insulfilm, Película Arquitetônica e PPF que buscam acabamento limpo e profissional. Especificações Técnicas Modelo: Espátula de Canto Rigidez: 90A (Rígida) Cor: Preta Indicação: Window Film, Insulfilm e PPF Uso: Profissional Benefícios • Ideal para cantos e áreas estreitas • Excelente controle e precisão • Maior pressão na aplicação • Não deforma facilmente • Alta durabilidade",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "2200117",
+    "nome": "Lâmina OLFA LB-10 18mm 10 Unidades Original",
+    "preco": 175,
+    "estoque": 19,
+    "ativo": true,
+    "descricao": "Lâmina OLFA LB-10 18mm – Estojo com 10 Lâminas Originais Lâminas de reposição originais OLFA, modelo LB-10, indicadas para estiletes 18mm. Fabricadas em aço de alta qualidade, oferecem corte preciso, excelente durabilidade e desempenho superior em serviços profissionais. Indicadas para aplicação de Insulfilm, Película Arquitetônica, PPF e cortes técnicos em geral. Especificações Técnicas Marca: OLFA Modelo: LB-10 Tamanho: 18mm Quantidade: 10 lâminas Tipo: Reposição Indicação: Insulfilm, Película Arquitetônica e PPF Benefícios • Corte preciso e uniforme • Alta durabilidade • Produto original OLFA • Ideal para uso profissional • Estojo compacto para reposição",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "1,50",
+      "Altura do Produto": "17,50",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "2200118",
+    "nome": "Lâmina OLFA AB-50S Inox 9mm 50 Unidades Original",
+    "preco": 289,
+    "estoque": 16,
+    "ativo": true,
+    "descricao": "Lâmina OLFA AB-50S Inox 9mm – Estojo com 50 Lâminas Originais Lâminas profissionais originais OLFA, modelo AB-50S, fabricadas em aço inox de alta qualidade. Indicadas para estiletes 9mm, oferecem corte extremamente preciso, durabilidade superior e excelente desempenho em aplicações de Insulfilm, Película Arquitetônica e PPF. Produto original, ideal para profissionais que exigem padrão elevado de acabamento. Especificações Técnicas Marca: OLFA Modelo: AB-50S Material: Aço Inox Tamanho: 9mm Quantidade: 50 lâminas Indicação: Insulfilm, Película Arquitetônica e PPF Benefícios • Corte preciso e uniforme • Alta durabilidade • Aço inox resistente à corrosão • Produto original OLFA • Uso profissional",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "1,50",
+      "Altura do Produto": "17,50",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "2200119",
+    "nome": "Cabo Resina 22cm com Argola Suporte Borracha 15cm",
+    "preco": 75,
+    "estoque": 1,
+    "ativo": true,
+    "descricao": "Cabo em Resina Preto 22cm com Argola – Suporte para Borracha até 15cm Cabo profissional indicado como suporte para borrachas de aplicação de até 15cm. Fabricado em resina resistente, proporciona firmeza e ergonomia durante a aplicação de Insulfilm, Película Arquitetônica e PPF. Possui argola para melhor manuseio e organização na bancada. Ideal para reposição ou montagem personalizada conforme a necessidade do instalador. Atenção Produto vendido somente o cabo. Não acompanha borracha. Especificações Técnicas Material: Resina Cor: Preto Comprimento: 22cm Compatibilidade: Borrachas até 15cm Indicação: Insulfilm, Película Arquitetônica e PPF Benefícios • Estrutura resistente • Melhor ergonomia na aplicação • Compatível com borrachas até 15cm • Ideal para reposição • Uso profissional",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "FonsecaImportadora",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220012",
+    "nome": "Mini Rodinho Profissional Azul c/ Borracha e Espátula",
+    "preco": 49,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "2200120",
+    "nome": "Mini Rodinho 22cm 6cm Rígido Insulfilm & PPF",
+    "preco": 39,
+    "estoque": 10,
+    "ativo": true,
+    "descricao": "Mini Rodinho 22cm com Borracha Rígida 6cm para Insulfilm, Película Arquitetônica e PPF Ferramenta profissional indicada para aplicação em vidros pequenos e áreas de difícil acesso. Possui cabo de 22cm que proporciona maior alcance e controle. A borracha rígida de 6cm permite melhor pressão e remoção eficiente de água durante a aplicação. Ideal para vidrinhos automotivos e ajustes finais. Informações Importantes Disponível com cabo azul ou vermelho. A cor será enviada de forma aleatória conforme disponibilidade em estoque. Especificações Técnicas Comprimento do cabo: 22cm Borracha: 6cm rígida Indicação: Insulfilm, Película Arquitetônica e PPF Uso: Profissional Benefícios • Ideal para vidros pequenos • Maior alcance com cabo longo • Excelente pressão na aplicação • Uso profissional • Ferramenta leve e resistente",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "2200121",
+    "nome": "Pinça Inox Anti Magnética Curva PPF Profissional",
+    "preco": 42.7,
+    "estoque": 38,
+    "ativo": true,
+    "descricao": "Pinça de Precisão Inox Anti Magnética Ponta Curvada para PPF, Insulfilm e Película Arquitetônica Ferramenta profissional indicada para manuseio preciso de películas, recortes e pequenos detalhes durante a aplicação. Fabricada em aço inox anti magnético, proporciona maior controle e segurança no encaixe, posicionamento e acabamento da película. A ponta curvada facilita o acesso a áreas delicadas e de difícil alcance. Ideal para instaladores que buscam acabamento fino e padrão profissional. Especificações Técnicas Material: Aço Inox Tipo: Anti magnética Ponta: Curvada Indicação: PPF, Insulfilm e Película Arquitetônica Uso: Profissional Benefícios • Alta precisão nos detalhes • Não interfere em lâminas ou metais • Ideal para cantos e áreas pequenas • Acabamento mais profissional • Ferramenta resistente e durável",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "2200122",
+    "nome": "Tucking Tool Profissional PPF Insulfilm Cabo Vermelho",
+    "preco": 112,
+    "estoque": 51,
+    "ativo": true,
+    "descricao": "Tucking Tool Profissional para PPF, Insulfilm e Película Arquitetônica – Cabo Vermelho Ferramenta profissional indicada para acabamento, encaixe e acomodação da película em cantos, frisos e áreas de difícil acesso. Permite realizar o “tucking” com precisão, garantindo melhor fixação da película sem danificar o material ou a superfície. Ideal para instaladores que buscam acabamento limpo e profissional tanto em aplicações automotivas quanto arquitetônicas. Especificações Técnicas Tipo: Tucking Tool Cabo: Vermelho Indicação: PPF, Insulfilm e Película Arquitetônica Função: Acabamento e encaixe Benefícios • Ideal para frisos e cantos • Facilita o encaixe da película • Acabamento mais preciso • Não danifica a película • Uso profissional",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "2200125",
+    "nome": "Rodo Qili Resinado 18x13 Borracha Insulfilm PPF",
+    "preco": 108,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "Rodo Qili Resinado 18x13 com Borracha para Insulfilm, Película Arquitetônica e PPF Ferramenta profissional indicada para aplicação de Insulfilm automotivo, películas arquitetônicas e PPF (Paint Protection Film). O cabo resinado proporciona firmeza e ergonomia durante o uso. A borracha 18x13 garante excelente remoção de água e bolhas, oferecendo acabamento uniforme e seguro. Ideal para instaladores que buscam produtividade e precisão em áreas médias e amplas. Especificações Técnicas Marca: Qili Tipo: Rodo resinado Medida: 18x13cm Indicação: Insulfilm, Película Arquitetônica e PPF Benefícios • Excelente firmeza na aplicação • Ótima remoção de água • Não danifica a película • Alta durabilidade • Uso profissional",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "2200127",
+    "nome": "Cor:Azul",
+    "preco": 167,
+    "estoque": 31,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "19,00",
+      "Altura do Produto": "2,00",
+      "Profundidade do produto": "25,00"
+    },
+    "parentSku": "220015"
+  },
+  {
+    "sku": "2200128",
+    "nome": "Cor:Roxo",
+    "preco": 167,
+    "estoque": 35,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "19,00",
+      "Altura do Produto": "2,00",
+      "Profundidade do produto": "25,00"
+    },
+    "parentSku": "220015"
+  },
+  {
+    "sku": "2200130",
+    "nome": "Limpa Vidros Cristalle 5L Bellinzoni Profissional",
+    "preco": 55,
+    "estoque": 8,
+    "ativo": true,
+    "descricao": "Limpa Vidros Cristalle Concentrado 5L Bellinzoni – Uso Profissional Produto profissional indicado para limpeza pesada de vidros em serviços automotivos e arquitetônicos. Remove resíduos de cola, marcas de chuva ácida e calcificação sem agredir o polimento do vidro. Fórmula concentrada, de alto rendimento e sem ácido, garantindo limpeza eficiente com segurança. Ideal para preparação de superfícies antes da aplicação de Insulfilm, Película Arquitetônica e PPF. Principais Benefícios • Remove resíduos de cola • Elimina calcificação e marcas de chuva • Não contém ácido • Não agride o polimento do vidro • Alto rendimento por ser concentrado • Uso profissional Especificações Marca: Bellinzoni Modelo: Cristalle Volume: 5 Litros Tipo: Concentrado Indicação: Limpeza de vidros automotivos e arquitetônicos",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "14,00",
+      "Altura do Produto": "29,00",
+      "Profundidade do produto": "18,00"
+    }
+  },
+  {
+    "sku": "2200131",
+    "nome": "Lâmina 9mm Aço Carbono Profissional 100 Unidades",
+    "preco": 232,
+    "estoque": 7,
+    "ativo": true,
+    "descricao": "Lâmina 9mm Aço Carbono Profissional – Caixa com 100 Unidades Lâminas profissionais fabricadas em aço carbono de alta resistência, indicadas para estiletes 9mm. Proporcionam corte preciso, uniforme e maior durabilidade, sendo ideais para aplicação de Insulfilm, Película Arquitetônica, PPF e serviços técnicos em geral. Material de qualidade profissional, garantindo acabamento limpo e desempenho superior no dia a dia. Especificações Técnicas Tipo: Lâmina para estilete Tamanho: 9mm Material: Aço Carbono Quantidade: 100 unidades Indicação: Insulfilm, Película Arquitetônica, PPF e uso profissional",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "2200132",
+    "nome": "Cabo Resinado 22x10cm Borracha 15cm Rígida STR",
+    "preco": 138,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "Cabo Resinado 22x10cm com Borracha 15cm Rígida STR Tools para Insulfilm, Película Arquitetônica e PPF Ferramenta profissional indicada para aplicação de Insulfilm automotivo, películas arquitetônicas e PPF (Paint Protection Film). O cabo resinado proporciona firmeza e ergonomia durante a aplicação. A borracha rígida de 15cm é ideal para áreas maiores e remoção mais eficiente de água, garantindo melhor ancoragem da película. Indicada para instaladores que precisam de mais pressão e produtividade no trabalho. Especificações Técnicas Marca: STR Tools Cabo: Resinado Tamanho do cabo: 22x10cm Borracha: 15cm Rígida Indicação: Insulfilm, Película Arquitetônica e PPF Benefícios • Maior pressão na aplicação • Ideal para áreas amplas • Excelente remoção de água • Alta durabilidade • Uso profissional",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "2200133",
+    "nome": "Cabo Resinado 22x10cm Borracha 13cm Vermelha Insulfilm e PPF",
+    "preco": 128,
+    "estoque": 1,
+    "ativo": true,
+    "descricao": "Ferramenta profissional indicada para aplicação de Insulfilm automotivo, películas arquitetônicas e PPF (Paint Protection Film). O cabo resinado com argola proporciona firmeza e ergonomia durante o uso, garantindo maior controle e precisão. A borracha vermelha de 13cm auxilia na remoção eficiente de água e bolhas, sem danificar a película. Ideal para instaladores dos segmentos automotivo e arquitetônico que buscam produtividade, resistência e acabamento profissional. Especificações Técnicas Marca: KTM Cabo: Resinado com argola Tamanho do cabo: 22x10cm Borracha: 13cm Vermelha Indicação: Insulfilm, Película Arquitetônica e PPF Benefícios • Excelente firmeza na aplicação • Auxilia na remoção de água e bolhas • Não danifica a película • Alta durabilidade • Uso profissional automotivo e arquitetônico",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "2200134",
+    "nome": "Cabo Resinado 22x10cm Borracha 13cm Verde Insulfilm e PPF",
+    "preco": 128,
+    "estoque": 1,
+    "ativo": true,
+    "descricao": "Cabo Resinado 22x10cm com Borracha 13cm Verde para Insulfilm e PPF Ferramenta profissional indicada para aplicação de Insulfilm automotivo e PPF (Paint Protection Film). O cabo resinado proporciona firmeza e ergonomia durante o uso, garantindo maior controle e precisão na aplicação. A borracha verde de 13cm auxilia na remoção eficiente de água e bolhas, sem danificar a película. Ideal para instaladores que buscam produtividade, resistência e acabamento profissional. Especificações Técnicas Marca: KTM Cabo: Resinado com argola Tamanho do cabo: 22x10cm Borracha: 13cm Verde Indicação: Aplicação de Insulfilm e PPF Benefícios • Maior firmeza na aplicação • Excelente remoção de água • Não danifica a película • Alta durabilidade • Uso profissional",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "2200135",
+    "nome": "Cabo Resinado 22x10cm com Borracha 13cm Macia KTM",
+    "preco": 128,
+    "estoque": 1,
+    "ativo": true,
+    "descricao": "Cabo Resinado 22x10cm com Borracha 13cm Macia KTM Ferramenta profissional indicada para aplicação de Insulfilm e PPF (Paint Protection Film). O cabo resinado proporciona firmeza e ergonomia durante o uso, enquanto a borracha macia de 13cm garante excelente deslizamento, auxiliando na remoção de água e bolhas sem danificar a película. Ideal para instaladores que buscam precisão, produtividade e acabamento profissional. Especificações Técnicas Marca: KTM Cabo: Resinado Tamanho do cabo: 22x10cm Borracha: 13cm macia Indicação: Aplicação de Insulfilm e PPF Benefícios • Maior firmeza na aplicação • Excelente controle e ergonomia • Não risca a película • Ideal para áreas maiores • Uso profissional Conteúdo da Embalagem 01 Cabo Resinado 01 Borracha 13cm Macia",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "2200136",
+    "nome": "Kit 3 Borrachas KTM 13x5cm Macia Insulfilm e PPF",
+    "preco": 152.5,
+    "estoque": 13,
+    "ativo": true,
+    "descricao": "Kit com 3 Borrachas KTM 13x5cm Macia para Insulfilm e PPF Kit com 3 unidades da borracha profissional KTM indicada para aplicação de Insulfilm automotivo e PPF (Paint Protection Film). Fabricadas em borracha macia e flexível, proporcionam excelente controle na aplicação, auxiliando na remoção de água e bolhas sem danificar a película. Ideal para instaladores que desejam mais produtividade e reposição em bancada. Produto resistente, durável e indispensável para uso profissional. Especificações Técnicas Marca: KTM Cor: Amarela Tamanho: 13 cm x 5 cm cada unidade Material: Borracha macia profissional Indicação: Aplicação de Insulfilm e PPF Benefícios • Não risca a película • Excelente flexibilidade • Ótimo deslizamento • Auxilia na remoção de água e bolhas • Ideal para uso profissional • Melhor custo-benefício em kit Conteúdo da Embalagem 03 Borrachas KTM Amarela 13x5cm",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "2200137",
+    "nome": "Kit 2 Rodos Limpeza Macio 18x15 e 25x20 Insulfilm PPF",
+    "preco": 108,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "Kit 2 Rodos de Limpeza Profissional com Borracha Macia para Insulfilm, Película Arquitetônica e PPF Kit com 2 rodos indicados para limpeza e preparação de superfícies antes da aplicação de Insulfilm, película arquitetônica e PPF. Equipados com borracha macia, proporcionam excelente remoção de água e resíduos sem riscar o vidro ou a superfície. Ideais para uso profissional nos segmentos automotivo e arquitetônico. Indispensável na etapa de preparação, garantindo melhor aderência e acabamento da película. Especificações Técnicas Tipo: Rodo de Limpeza Material: Borracha macia Medidas: 18x15cm e 25x20cm Indicação: Limpeza para aplicação de Insulfilm, Película Arquitetônica e PPF Benefícios • Não risca a superfície • Excelente remoção de água • Ideal para preparação antes da aplicação • Uso profissional automotivo e arquitetônico • Maior produtividade no serviço",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "2200138",
+    "nome": "Kit 2 Capas Impermeáveis Forração Porta Automotiva",
+    "preco": 363.6,
+    "estoque": 12,
+    "ativo": true,
+    "descricao": "Kit com 2 Capas Impermeáveis para Forração de Porta Automotiva Kit profissional indicado para proteção da forração interna da porta durante serviços automotivos. Ideal para instalação de Insulfilm, PPF e serviços de detalhamento, evitando contato com água, produtos químicos e sujeira durante a aplicação. Permite trabalhar em duas portas simultaneamente, trazendo mais agilidade e organização ao serviço. Especificações Tipo: Capa protetora para porta Material: Impermeável Indicação: Insulfilm, PPF e detalhamento automotivo Quantidade: 2 unidades Benefícios • Protege contra água e resíduos • Evita manchas na forração • Mais produtividade no serviço • Material resistente e reutilizável • Uso profissional",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "2200139",
+    "nome": "Kit 4 Capas Impermeáveis Forração Porta Automotiva",
+    "preco": 627.24,
+    "estoque": 6,
+    "ativo": true,
+    "descricao": "Kit com 4 Capas Impermeáveis para Forração de Porta Automotiva Kit completo para profissionais que desejam proteger todas as portas do veículo durante serviços de instalação de Insulfilm, PPF e detalhamento. Ideal para maior produtividade, permitindo trabalhar no veículo inteiro com proteção total da forração interna. Produto resistente, reutilizável e indispensável em serviços profissionais. Especificações Tipo: Capa protetora para porta Material: Impermeável Indicação: Insulfilm, PPF e detalhamento automotivo Quantidade: 4 unidades Benefícios • Proteção completa do veículo • Ideal para serviços completos • Evita retrabalho e manchas • Mais organização no ambiente • Uso profissional",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "2200140",
+    "nome": "Kit de Borrachas para PPF 5 unidades",
+    "preco": 474,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "Kit desenvolvido para aplicadores profissionais de PPF, envelopamento e window film que buscam mais precisão, acabamento e agilidade na aplicação. ✅ Contém 5 borrachas profissionais ✅ 3 modelos com ímã para facilitar o posicionamento durante a aplicação ✅ Ideal para instalação de PPF, adesivos e películas automotivas ✅ Material resistente e flexível ✅ Excelente acabamento sem danificar o material ✅ Ferramentas indispensáveis para o dia a dia do aplicador Perfeito para profissionais que trabalham com: ✔ PPF ✔ Envelopamento automotivo ✔ Window Film",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220015",
+    "nome": "Cortador C/guia 360° PPF, Adesivos e Películas +10 Lâminas",
+    "preco": 167,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "19,00",
+      "Altura do Produto": "2,00",
+      "Profundidade do produto": "25,00"
+    }
+  },
+  {
+    "sku": "220017",
+    "nome": "Lanterna Auxiliar Magnética p/ Recortes",
+    "preco": 434,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "15,00",
+      "Altura do Produto": "5,00",
+      "Profundidade do produto": "15,00"
+    }
+  },
+  {
+    "sku": "220018",
+    "nome": "Borracha Reposição p/ Rodo Longo Squeegee 13cm",
+    "preco": 16,
+    "estoque": 60,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "13,00",
+      "Altura do Produto": "1,00",
+      "Profundidade do produto": "1,00"
+    }
+  },
+  {
+    "sku": "220019",
+    "nome": "Rodo Longo AWF Squeegee 30cm c/ Borracha Substituível",
+    "preco": 36,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "14,00",
+      "Altura do Produto": "30,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220020",
+    "nome": "Rodo Longo 32cm p/ Aplicação e Limpeza c/ Borracha 13cm",
+    "preco": 104,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "13,00",
+      "Altura do Produto": "32,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220022",
+    "nome": "Espátula para Modelagem Películas/Insufilm Dureza 40%",
+    "preco": 27,
+    "estoque": 2,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220023",
+    "nome": "Espátula para Modelagem Películas/Insufilm Dureza 60%",
+    "preco": 28,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220024",
+    "nome": "Espátula para Modelagem Películas/Insufilm Dureza 80%",
+    "preco": 22,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Mercado Livre>>Acessórios para Veículos>>Ferramentas para Veículos>>Espátulas para Insufilm",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220026",
+    "nome": "Espátula p/ Modelagem U Películas/Insufilm Dureza 40%",
+    "preco": 28,
+    "estoque": 12,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220027",
+    "nome": "Espátula p/ Modelagem U Películas/Insufilm Dureza 60%",
+    "preco": 28,
+    "estoque": 6,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220028",
+    "nome": "Espátula p/ Modelagem U Películas/Insufilm Dureza 80%",
+    "preco": 28,
+    "estoque": 2,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220029",
+    "nome": "Rodo Pro hand Tools p/ Aplicação PPF c/ Borracha Rígida 13cm",
+    "preco": 55,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "14,00",
+      "Altura do Produto": "8,50",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220030",
+    "nome": "Ímã Forte Profissional Mascote p/ Toalhas e Adesivos",
+    "preco": 136,
+    "estoque": 13,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "15,00",
+      "Altura do Produto": "15,00",
+      "Profundidade do produto": "10,00"
+    }
+  },
+  {
+    "sku": "220031",
+    "nome": "Borracha p/ Rodo de Limpeza 15x3,5cm Verde Profissional",
+    "preco": 33,
+    "estoque": 48,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "15,00",
+      "Altura do Produto": "3,50",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220032",
+    "nome": "Rodo de Limpeza Profissional 18,5x15cm",
+    "preco": 62,
+    "estoque": 30,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "15,00",
+      "Altura do Produto": "18,50",
+      "Profundidade do produto": "4,00"
+    }
+  },
+  {
+    "sku": "220033",
+    "nome": "Borracha p/ Rodo de Limpeza 21x3,5cm Rosa Profissional",
+    "preco": 40,
+    "estoque": 35,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "22,00",
+      "Altura do Produto": "3,50",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220034",
+    "nome": "Rodo de Limpeza 21x25cm Arquitetura Profissional",
+    "preco": 72,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "21,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "4,00"
+    }
+  },
+  {
+    "sku": "220053",
+    "nome": "Ponteira Protetora 58mm p/ Soprador Térmico Profissional",
+    "preco": 38,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "FonsecaImportadora",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "9,00",
+      "Altura do Produto": "6,50",
+      "Profundidade do produto": "5,50"
+    }
+  },
+  {
+    "sku": "220057",
+    "nome": "Espátula Afastadora 16,5cm p/ Pestanas e Borrachas",
+    "preco": 20,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "1,50",
+      "Altura do Produto": "17,50",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220061",
+    "nome": "Raspador Profissional 15cm c/ Lâmina Aço Inox",
+    "preco": 85,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "FonsecaImportadora",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "15,00",
+      "Altura do Produto": "17,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220066",
+    "nome": "Cabo Resinado Preto 18cm c/ Argola p/ Borrachas",
+    "preco": 68,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "FonsecaImportadora",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220069",
+    "nome": "Borracha Rígida 2 Lados p/ Aplicação de Películas",
+    "preco": 55,
+    "estoque": 7,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "8,00",
+      "Altura do Produto": "15,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220070",
+    "nome": "Rodo de Aplicação Limpeza c/ Borracha Amarela",
+    "preco": 23.89,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "15,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220071",
+    "nome": "Rodo de Aplicação Limpeza c/ Borracha Verde",
+    "preco": 23.89,
+    "estoque": -1,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "15,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220072",
+    "nome": "Rodo de Aplicação Limpeza c/ Borracha Vermelha",
+    "preco": 29.7,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "15,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220073",
+    "nome": "Borracha PPF Concha c/ Ímã Rígida Profissional",
+    "preco": 108,
+    "estoque": 17,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "10,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220074",
+    "nome": "Borracha Angular p/ PPF c/ Ímã Rígida Profissional",
+    "preco": 108,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "10,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220075",
+    "nome": "Borracha Retangular Profissional PPF c/ Ímã Profissional",
+    "preco": 108,
+    "estoque": 10,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "10,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220080",
+    "nome": "Cabo p/ Insufilm Aluminio Preto 15cm p/ Borrachas",
+    "preco": 77,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220081",
+    "nome": "Cabo p/ Insufilm Aluminio Preto 20cm p/ Borrachas",
+    "preco": 88,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220082",
+    "nome": "Rodo Insufilm Spider Emborrachado",
+    "preco": 77,
+    "estoque": 18,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220084",
+    "nome": "Corda Trança fina para Insufilm 3m",
+    "preco": 132.72,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "18,00",
+      "Altura do Produto": "15,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220085",
+    "nome": "Fita modeladora aplicação de Insufilm 0,5cmx33m",
+    "preco": 60,
+    "estoque": 29,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "18,00",
+      "Altura do Produto": "15,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220086",
+    "nome": "Afastador p/ Pestana 28CM p/instalação de Insufilm",
+    "preco": 92,
+    "estoque": -1,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "19,00",
+      "Altura do Produto": "2,00",
+      "Profundidade do produto": "25,00"
+    }
+  },
+  {
+    "sku": "220088",
+    "nome": "Manta p/ Insufilm Painel c/ Trança Fina 1,70m x 0,60cm",
+    "preco": 210,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "25,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "15,00"
+    }
+  },
+  {
+    "sku": "220089",
+    "nome": "Lâmina para Raspador  Ratão15cm de 2 Gumês Caixa com 25 Unid.",
+    "preco": 134,
+    "estoque": 2,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "19,00",
+      "Altura do Produto": "2,00",
+      "Profundidade do produto": "25,00"
+    }
+  },
+  {
+    "sku": "220091",
+    "nome": "Bico Spray Amarelo Modelo Zeep p/Insufilm",
+    "preco": 67,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220092",
+    "nome": "Kit Corte Sensor Adesivos Profissional",
+    "preco": 319.9,
+    "estoque": 5,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "19,00",
+      "Altura do Produto": "2,00",
+      "Profundidade do produto": "25,00"
+    }
+  },
+  {
+    "sku": "220093",
+    "nome": "Cabo p/ Insufilm Resinado Longo 40cm p/ Borrachas 20cm acima",
+    "preco": 264,
+    "estoque": 12,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "25,00",
+      "Altura do Produto": "40,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220094",
+    "nome": "Borracha p/ Instalação de PPF Formato bicos angular",
+    "preco": 116,
+    "estoque": 34,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "10,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220095",
+    "nome": "Borracha p/ Instalação de PPF Formato Bico e Concha",
+    "preco": 116,
+    "estoque": 22,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "10,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220096",
+    "nome": "Bucha Scrubber 25x12cm Profissional p/ Limpeza Vidros",
+    "preco": 23,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "A Bucha Scrubber 25x12 cm é ideal para limpeza de vidros e preparação de superfícies antes da aplicação de películas automotivas e arquitetônicas. Produzida com material resistente, remove resíduos sem riscar e facilita o acabamento perfeito. Indicada para instaladores de Insulfilm, PPF e adesivos que buscam eficiência e durabilidade. Produto profissional pronto para uso.",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "10,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220097",
+    "nome": "Rodo Profissional 19x15cm Macio Insulfilm PPF",
+    "preco": 49.9,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "Rodo de Limpeza 19x15cm com Borracha Macia – Uso Profissional Ferramenta ideal para limpeza e acabamento na aplicação de Insulfilm, Película Arquitetônica e PPF. A borracha macia proporciona excelente remoção de água e resíduos sem agredir a película ou o vidro, garantindo acabamento uniforme e profissional. Pode ser utilizado também em limpeza de vidros residenciais, comerciais e pós-obra. Especificações Técnicas Tamanho aproximado: 19x15cm Borracha: Macia Indicação: Insulfilm, PPF, Películas Arquitetônicas e Limpeza de Vidros Uso: Profissional Benefícios • Não agride película • Remove água com facilidade • Ideal para acabamento final • Excelente desempenho em superfícies lisas • Alta durabilidade",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "15,00",
+      "Altura do Produto": "18,50",
+      "Profundidade do produto": "4,00"
+    }
+  },
+  {
+    "sku": "220098",
+    "nome": "Rodo Inox 35cm Profissional para Vidros e Película",
+    "preco": 120,
+    "estoque": 21,
+    "ativo": true,
+    "descricao": "Rodo de Limpeza Profissional 35cm em Aço Inox para Vidros e Aplicação de Película Ferramenta profissional indicada para limpeza de vidros e preparação de superfícies antes da aplicação de Insulfilm, Película Arquitetônica e PPF. Fabricado em aço inox resistente à corrosão, oferece alta durabilidade, firmeza e excelente desempenho na remoção de água e resíduos. Com 35cm de largura, proporciona maior rendimento em áreas amplas, garantindo acabamento uniforme e mais produtividade no dia a dia. Ideal para instaladores profissionais e serviços de detalhamento automotivo e arquitetônico. Especificações Técnicas Material: Aço Inox Largura: 35cm Indicação: Limpeza de vidros e aplicação de película Uso: Profissional Benefícios • Alta resistência e durabilidade • Excelente remoção de água • Ideal para áreas amplas • Não enferruja • Maior produtividade no serviço",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220099",
+    "nome": "Espátula Contour Amarela Insulfilm PPF Profissional",
+    "preco": 32.9,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "Espátula Contour Amarela – Precisão e Conforto na Aplicação Ferramenta profissional desenvolvida para aplicação e acabamento de Insulfilm, Película Arquitetônica e PPF. O design ergonômico “Contour” proporciona melhor encaixe na mão, oferecendo mais conforto e controle durante a aplicação. Seu formato facilita o trabalho em cantos, curvas e áreas delicadas, garantindo acabamento mais uniforme. Ideal para instaladores que buscam precisão e alto padrão profissional. Especificações Técnicas Modelo: Contour Cor: Amarela Indicação: Insulfilm, Película Arquitetônica e PPF Uso: Profissional Benefícios • Design ergonômico • Maior conforto no manuseio • Excelente controle em curvas • Ideal para acabamento fino • Alta durabilidade",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "15,00",
+      "Altura do Produto": "18,50",
+      "Profundidade do produto": "4,00"
+    }
+  },
+  {
+    "sku": "220101",
+    "nome": "Estilete Profissional p/ Insufilm Aluminio com lâmina 30°",
+    "preco": 33,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "2,00",
+      "Altura do Produto": "15,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220102",
+    "nome": "Estilete Profissional p/ Insufilm Aluminio com lâmina 30°",
+    "preco": 33,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "2,00",
+      "Altura do Produto": "15,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220103",
+    "nome": "Espátula Bulldozer Ponta Emborrachada Curva 30cm p/ Insufilm",
+    "preco": 120,
+    "estoque": 14,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "14,00",
+      "Altura do Produto": "30,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220104",
+    "nome": "Espátula Bulldozer Scrubber p/ Limpeza Insufilm",
+    "preco": 149,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "14,00",
+      "Altura do Produto": "30,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220105",
+    "nome": "Rodo Trapézio Azul com Borracha  p/ Instalação de Películas",
+    "preco": 40,
+    "estoque": 40,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220108",
+    "nome": "Espátula Angled Squegee  p/ Instalação de Insufilm",
+    "preco": 43,
+    "estoque": 49,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220109",
+    "nome": "Espátula Blade Squegee p/ Instalação de Insufilm",
+    "preco": 47,
+    "estoque": 28,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220110",
+    "nome": "Espátula Triangle Blade p/ Instalação de Insufilm",
+    "preco": 27,
+    "estoque": 67,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220111",
+    "nome": "Espátula Tiazinha Rosa p/ Instalação de Insufilm",
+    "preco": 7,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220112",
+    "nome": "Espátula Gold Squeegee p/ Instalação de Insufilm",
+    "preco": 20,
+    "estoque": 61,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220113",
+    "nome": "Feltros Verde Neon Autocolante p/ Películas e Adesivos 10 unidades",
+    "preco": 67,
+    "estoque": 474,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220114",
+    "nome": "Ferramenta Removedora de Grampos e Forros p/Insufilm",
+    "preco": 64,
+    "estoque": 1,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220115",
+    "nome": "Par de Luvas Preto p/ Instalação de Insufilm",
+    "preco": 28,
+    "estoque": 6,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220116",
+    "nome": "Raspador Ratinho para Remoção de Insufilm Laranja",
+    "preco": 24,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220117",
+    "nome": "Raspador Profissional para Vidros – Cabo Metálico 30cm – Usa Lâmina de Ratinho – Com Reservatório de Lâminas",
+    "preco": 88,
+    "estoque": 25,
+    "ativo": true,
+    "descricao": "Descrição do Produto O Raspador Profissional com Cabo Metálico de 30cm é uma ferramenta indispensável para limpeza e preparação de vidros , especialmente antes da aplicação de insulfilm, adesivos e PPF . Este modelo utiliza lâmina de ratinho na ponta, ideal para remoção precisa de colas, resíduos, tintas e sujeiras aderidas , sem inventar moda — o sistema clássico que sempre funcionou. O grande diferencial está no reservatório interno de lâminas , localizado no cabo. O pegador possui tampa removível , permitindo guardar lâminas extras com segurança e praticidade durante o serviço. Ferramenta robusta, simples e feita para uso profissional pesado. Indicado para Limpeza de vidros automotivos Preparação de vidro para aplicação de insulfilm Remoção de cola, adesivos e resíduos Uso em estética automotiva e vidraçaria Características Técnicas Tipo: Raspador profissional para vidros Comprimento total: 30 cm Material do cabo: Metal Tipo de lâmina: Lâmina de ratinho Sistema de lâmina: Fixação fr",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220119",
+    "nome": "Espátula para Aplicação Triangulo Dureza 40%",
+    "preco": 32,
+    "estoque": 32,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220124",
+    "nome": "Cabo Resinado Preto 25x15cm c/ Argola p/ Borracha 20cm",
+    "preco": 135,
+    "estoque": 7,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220125",
+    "nome": "Borracha Profissional STR Tools Rígida 20cm",
+    "preco": 127,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "10,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220126",
+    "nome": "Espátula Profissional Titan 38cm p/ Aplicação Insufilm",
+    "preco": 85,
+    "estoque": 8,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "14,00",
+      "Altura do Produto": "38,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220127",
+    "nome": "Espátula Teflon Gold Modelagem Películas/Insufilm",
+    "preco": 30,
+    "estoque": 10,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220128",
+    "nome": "Estilete OLFA SAC-1 Inox  para Insufilm, PPF e Adesivos",
+    "preco": 134,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "2,00",
+      "Altura do Produto": "15,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220129",
+    "nome": "Estilete NT Cutter A-533P Amarelo 9mm Profissional",
+    "preco": 172,
+    "estoque": 4,
+    "ativo": true,
+    "descricao": "Estilete profissional NT Cutter A-533P amarelo com lâmina 9mm e ajuste de corte em diferentes ângulos. Ideal para aplicação de insulfilm, PPF, adesivos e recortes precisos. Descrição completa: NT Cutter A-533P Profissional 9mm Ferramenta de alta precisão desenvolvida para profissionais de envelopamento, aplicação de window film, PPF e adesivos. O modelo A-533P possui sistema especial que permite ajuste da lâmina em diferentes ângulos (30°, 45° e 58°), oferecendo cortes mais precisos e melhor ergonomia no trabalho diário. Características: Conteúdo da embalagem: Indicado para:",
+    "categoria": "Mercado Livre>>Acessórios para Veículos>>Ferramentas para Veículos>>Espátulas para Insufilm",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "2,00",
+      "Altura do Produto": "15,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220130",
+    "nome": "Estilete Olfa SPC-1  para Insufilm, PPF e Adesivos",
+    "preco": 53,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "2,00",
+      "Altura do Produto": "15,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220131",
+    "nome": "Lâmina SDI Black 30° Aço Carbono 10 Unidades",
+    "preco": 25,
+    "estoque": 72,
+    "ativo": true,
+    "descricao": "Lâmina SDI Black 30° Aço Carbono – Caixa com 10 Unidades Lâminas profissionais fabricadas em aço carbono, modelo 30°, indicadas para cortes precisos em aplicação de Insulfilm, Película Arquitetônica e PPF. A ponta 30° proporciona maior precisão em recortes e acabamentos, sendo ideal para trabalhos detalhados e cortes técnicos. Versão prática com 10 unidades, ideal para reposição rápida no dia a dia do instalador. Especificações Técnicas Marca: SDI Modelo: Black Ângulo: 30° Material: Aço Carbono Quantidade: 10 unidades Indicação: Insulfilm, Película Arquitetônica e PPF Benefícios • Corte mais preciso (30°) • Alta durabilidade • Ideal para acabamento fino • Versão compacta para reposição • Uso profissional",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "3,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "10,00"
+    }
+  },
+  {
+    "sku": "220132",
+    "nome": "Raspador Cabo Longo 30cm c/ 5 Lâminas p/ Insufilm",
+    "preco": 54,
+    "estoque": 26,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220133",
+    "nome": "Lâmina para Raspador Ratinho Insufilm Unidade",
+    "preco": 0.8,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "19,00",
+      "Altura do Produto": "2,00",
+      "Profundidade do produto": "25,00"
+    }
+  },
+  {
+    "sku": "220134",
+    "nome": "Borracha KTM Amarela 13x5cm Macia para Insulfilm e PPF",
+    "preco": 55,
+    "estoque": 41,
+    "ativo": true,
+    "descricao": "Boa, agora vamos deixar fechado e padrão único para usar no Bling, Shopee, Mercado Livre e Amazon. ? TÍTULO (60 caracteres) Borracha KTM Amarela 13x5cm Macia para Insulfilm e PPF ? DESCRIÇÃO PADRÃO PROFISSIONAL Borracha KTM Amarela 13x5cm Macia para Insulfilm e PPF Ferramenta profissional indicada para aplicação de Insulfilm automotivo e PPF (Paint Protection Film). Fabricada em borracha macia e flexível, proporciona excelente controle na aplicação, auxiliando na remoção de água e bolhas sem danificar a película. Ideal para instaladores que buscam acabamento limpo, preciso e seguro. Produto resistente, durável e indispensável para uso profissional. Especificações Técnicas Marca: KTM Cor: Amarela Tamanho: 13 cm x 5 cm Material: Borracha macia profissional Indicação: Aplicação de Insulfilm e PPF Benefícios • Não risca a película • Excelente flexibilidade • Ótimo deslizamento • Ajuda na remoção de água e bolhas • Ideal para uso profissional Conteúdo da Embalagem 01 Borracha KTM Amarela 13",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "8,00",
+      "Altura do Produto": "15,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220135",
+    "nome": "Borracha KTM Verde 13x5cm p/ Aplicação de Películas",
+    "preco": 55,
+    "estoque": 7,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "8,00",
+      "Altura do Produto": "15,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220136",
+    "nome": "Borracha KTM Vermelha 13x5cm p/ Aplicação Insulfim",
+    "preco": 55,
+    "estoque": 178,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "8,00",
+      "Altura do Produto": "15,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220137",
+    "nome": "Borracha STR Rígida 15x5cm p/ Aplicação de Películas",
+    "preco": 78,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "8,00",
+      "Altura do Produto": "15,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220141",
+    "nome": "Espátula para Aplicação Canto de Bico Dureza 40%",
+    "preco": 28,
+    "estoque": 3,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220159",
+    "nome": "Borracha para instalação de PPF Rosa 7,5x3,5",
+    "preco": 33,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "10,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220160",
+    "nome": "Borracha para instalação de PPF Rosa 9,5x7,5",
+    "preco": 33,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "10,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220161",
+    "nome": "Borracha para instalação de PPF Rosa 7,5x6,5",
+    "preco": 33,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "10,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220162",
+    "nome": "Borracha para instalação de PPF Rosa 10x7,5",
+    "preco": 33,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "10,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220163",
+    "nome": "Borracha para instalação de PPF Rosa 7,5x6,5",
+    "preco": 33,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "10,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220164",
+    "nome": "Borrifador 750ML Alta pressão Resistente a Produtos Quimicos",
+    "preco": 95,
+    "estoque": 18,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220165",
+    "nome": "Espátula Batedor p/ Aplicação Insufilm 12x10cm Profissional",
+    "preco": 27,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Mercado Livre>>Acessórios para Veículos>>Ferramentas para Veículos>>Espátulas para Insufilm",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "14,00",
+      "Altura do Produto": "30,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220166",
+    "nome": "Espátula p/ Aplicação Insufilm Média 20,5x12cm Profissional",
+    "preco": 48,
+    "estoque": 3,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "14,00",
+      "Altura do Produto": "30,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220167",
+    "nome": "Espátula p/ Aplicação Insufilm Grande 25x13,5 Profissional",
+    "preco": 47,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "14,00",
+      "Altura do Produto": "30,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "2201680157",
+    "nome": "Cabo Resinado 25x15cm c/ Argola c/ Borracha 20cm Rigida",
+    "preco": 263,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220169",
+    "nome": "Cabo Resinado Preto 18x10cm c/ Argola c/ Borracha 13cm Verde",
+    "preco": 120,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220170",
+    "nome": "Cabo Resinado 18x10cm c/ Argola c/ Borracha 13cm Amarela",
+    "preco": 120,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220171",
+    "nome": "Cabo Resinado 18x10cm c/ Argola c/ Borracha 13cm Vermelha",
+    "preco": 120,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220172",
+    "nome": "Cabo Resinado 18x10cm c/ Borracha 15cm STR tools Rigida",
+    "preco": 143,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220173",
+    "nome": "Cabo p/ Insufilm Aluminio 20cm c/ Borracha 13cm KTM verde",
+    "preco": 139,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220174",
+    "nome": "Cabo p/ Insufilm Aluminio 20cm c/ Borracha 13cm vermelho",
+    "preco": 139,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220175",
+    "nome": "Cabo p/ Insufilm Aluminio Preto 20cm c/ Borracha 13cm KTM Amarela",
+    "preco": 139,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220176",
+    "nome": "Cabo p/ Insufilm Aluminio 20cm c/ Borracha 15cm Rigida",
+    "preco": 148,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220177",
+    "nome": "Cabo p/ Insufilm Aluminio 15cm c/ Borracha KTM vermelha 13cm",
+    "preco": 120,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220178",
+    "nome": "Cabo p/ Insufilm Aluminio 15cm c/ Borracha KTM Verde 13cm",
+    "preco": 120,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220179",
+    "nome": "Cabo p/ Insufilm Aluminio 15cm c/ Borracha KTM Amarela 13cm",
+    "preco": 120,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220180",
+    "nome": "Cabo p/ Insufilm Aluminio 15cm c/ Borracha STR tools 15cm",
+    "preco": 135,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220181",
+    "nome": "Cabo Aplicar  Insufilm 40x15cm c/ Borracha 20cm Rigida",
+    "preco": 389,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220182",
+    "nome": "FIBRA LIMP LEVE 102X26CM",
+    "preco": 4.5,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "5,00",
+      "Altura do Produto": "10,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220183",
+    "nome": "Espátula Rodo Batman Profissional",
+    "preco": 18,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220185",
+    "nome": "Mini Rodinho Cabo Metal Borracha Verde Insulfilm PPF",
+    "preco": 87,
+    "estoque": 34,
+    "ativo": true,
+    "descricao": "Mini Rodinho Cabo Metal Ergonômico com Borracha Verde para Insulfilm, Película Arquitetônica e PPF Ferramenta profissional indicada para aplicação e acabamento em áreas menores e de difícil acesso. Possui cabo metálico ergonômico que proporciona firmeza e precisão durante o uso. A borracha verde oferece excelente controle na remoção de água e bolhas, garantindo acabamento limpo sem danificar a película. Ideal para cantos, bordas e ajustes finos. Especificações Técnicas Tipo: Mini rodinho profissional Cabo: Metal ergonômico Borracha: Verde Indicação: Insulfilm, Película Arquitetônica e PPF Benefícios • Ideal para áreas pequenas e detalhes • Excelente controle e precisão • Não danifica a película • Uso profissional • Ferramenta leve e resistente",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220186",
+    "nome": "Mini Rodinho para aplicar Insufilm Borracha Dupla 2 lados",
+    "preco": 115,
+    "estoque": 13,
+    "ativo": true,
+    "descricao": "Mini Rodinho com Cabo em Metal e Borracha Dupla – 2 Lados Ferramenta profissional indicada para aplicação e limpeza de vidros pequenos e áreas de difícil acesso em veículos. Ideal para vidrinhos laterais, cantos e acabamentos onde ferramentas maiores não alcançam.",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220187",
+    "nome": "Rodo Longo Squeegee 30cm c/ Borracha Substituível",
+    "preco": 45,
+    "estoque": -2,
+    "ativo": true,
+    "descricao": "Rodo Longo Squeegee 30cm com Borracha Substituível Rodo profissional indicado para aplicação de insulfilm, window film e películas em áreas maiores. O formato longo facilita o alcance e a remoção eficiente de água e bolhas, garantindo acabamento uniforme e ganho de produtividade.",
+    "categoria": "Tiktok_ADS-Espátulas",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "14,00",
+      "Altura do Produto": "30,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220188",
+    "nome": "Corda fina Cinza para Insufilm 3 metros",
+    "preco": 120,
+    "estoque": 16,
+    "ativo": true,
+    "descricao": "Corda Trança Fina Cinza para Insulfilm 3m Corda de proteção utilizada na aplicação de insulfilm para evitar que a água escorra e entre no painel do veículo. Atua como barreira absorvente, retendo a umidade durante o processo de aplicação e protegendo componentes internos.",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "18,00",
+      "Altura do Produto": "15,00",
+      "Profundidade do produto": "2,00"
+    }
+  },
+  {
+    "sku": "220189",
+    "nome": "Kit Ferramentas Detalhamento 5 Peças Profissional",
+    "preco": 115,
+    "estoque": 6,
+    "ativo": true,
+    "descricao": "Kit Ferramentas para Detalhamento 5 Peças – Uso Profissional Kit profissional com 5 ferramentas indicadas para detalhamento, encaixe e acabamento em aplicações de PPF, Insulfilm e Película Arquitetônica. Ideal para trabalhar em frisos, cantos, áreas estreitas e acabamentos técnicos, proporcionando maior precisão e controle durante a aplicação. Ferramentas leves, resistentes e de alta durabilidade, desenvolvidas para uso profissional. Especificações Técnicas Quantidade: 5 peças Tipo: Ferramentas de detalhamento Indicação: PPF, Insulfilm e Película Arquitetônica Uso: Profissional Benefícios • Ideal para acabamentos finos • Facilita encaixe em áreas estreitas • Maior controle e precisão • Kit compacto e funcional • Uso profissional",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "19,00",
+      "Altura do Produto": "2,00",
+      "Profundidade do produto": "25,00"
+    }
+  },
+  {
+    "sku": "220190",
+    "nome": "Kit Ferramentas Detalhamento 7 Peças Magnéticas",
+    "preco": 115,
+    "estoque": 1,
+    "ativo": true,
+    "descricao": "Kit Ferramentas para Detalhamento 7 Peças Magnéticas – Uso Profissional Kit profissional com 7 ferramentas magnéticas indicadas para detalhamento, encaixe e acabamento em aplicações de PPF, Insulfilm e Película Arquitetônica. Ideal para trabalhar em áreas delicadas, frisos, cantos e acabamentos técnicos, proporcionando maior precisão e controle. Ferramentas leves, resistentes e de alta durabilidade, desenvolvidas para uso profissional. Especificações Técnicas Quantidade: 7 peças Tipo: Ferramentas de detalhamento Característica: Magnéticas Indicação: PPF, Insulfilm e Película Arquitetônica Uso: Profissional Benefícios • Ideal para acabamentos finos • Facilita encaixe em áreas estreitas • Maior precisão no detalhamento • Kit completo para profissionais • Alta durabilidade",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "19,00",
+      "Altura do Produto": "2,00",
+      "Profundidade do produto": "25,00"
+    }
+  },
+  {
+    "sku": "220191",
+    "nome": "Kit Ferramentas para detalhamento 3 peças profissional",
+    "preco": 110,
+    "estoque": 7,
+    "ativo": true,
+    "descricao": "Kit de Ferramentas para Detalhamento Profissional com 3 Peças Kit profissional indicado para detalhamento automotivo, aplicação de películas, limpeza e acabamento em áreas estreitas e de difícil acesso. As ferramentas facilitam o trabalho em frestas, cantos e encaixes, garantindo maior precisão e cuidado com as superfícies.",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "19,00",
+      "Altura do Produto": "2,00",
+      "Profundidade do produto": "25,00"
+    }
+  },
+  {
+    "sku": "220192",
+    "nome": "Capa Impermeável Forração Porta Automotiva",
+    "preco": 172,
+    "estoque": 24,
+    "ativo": true,
+    "descricao": "Capa Impermeável para Forração de Porta Automotiva Capa profissional indicada para proteção da forração interna da porta durante serviços automotivos. Ideal para instalação de Insulfilm, PPF e serviços de detalhamento, evitando contato com água, produtos químicos e sujeira durante a aplicação. Fabricada em material impermeável e resistente, protege o interior do veículo e garante mais organização e segurança no trabalho. Especificações Técnicas Tipo: Capa protetora para porta Material: Impermeável Aplicação: Proteção durante serviços automotivos Indicação: Instalação de Insulfilm, PPF e detalhamento Benefícios • Protege a forração contra água e sujeira • Evita manchas e danos internos • Facilita o trabalho do instalador • Material resistente e reutilizável • Uso profissional",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "25,00",
+      "Altura do Produto": "25,00",
+      "Profundidade do produto": "15,00"
+    }
+  },
+  {
+    "sku": "220193",
+    "nome": "Quebrador e Reservatório de lâminas fundo magnético",
+    "preco": 45,
+    "estoque": 23,
+    "ativo": true,
+    "descricao": "Quebrador e Reservatório de Lâminas com Fundo Magnético Ferramenta profissional utilizada para quebrar e armazenar lâminas de forma segura durante trabalhos de insulfilm, envelopamento e aplicação de películas. O sistema de quebra facilita o uso da lâmina sempre com ponta nova, mantendo precisão e segurança no corte. Possui fundo magnético que ajuda a manter as lâminas presas no interior do reservatório, evitando quedas e acidentes no ambiente de trabalho. Ideal para profissionais que buscam organização, segurança e praticidade no dia a dia.",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "12,00",
+      "Altura do Produto": "18,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220194",
+    "nome": "Linha de Corte Insufilm Designlina 10 Metros profissional",
+    "preco": 97,
+    "estoque": 7,
+    "ativo": true,
+    "descricao": "Linha de Corte Designline 10 Metros Profissional Linha de corte profissional utilizada para acabamento preciso em películas automotivas, envelopamento, PPF e adesivos. Permite cortes limpos e exatos sem o uso de estilete sobre a superfície, evitando riscos na pintura, no vidro ou na película. Fabricada com filamento de alta resistência, garante desempenho constante e acabamento de alto padrão mesmo em curvas e áreas delicadas. Ideal para profissionais que buscam precisão, segurança e qualidade superior nos cortes durante a instalação.",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "14,00",
+      "Altura do Produto": "30,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220195",
+    "nome": "Bolsa para Ferramentas de Cintura com 14 Compartimentos",
+    "preco": 228,
+    "estoque": 0,
+    "ativo": true,
+    "descricao": "Bolsa para Ferramentas de Cintura com 14 Compartimentos – Uso Profissional Bolsa organizadora desenvolvida para facilitar o transporte e acesso rápido às ferramentas durante o trabalho. Possui 14 compartimentos que permitem melhor organização de espátulas, rodos, estiletes, lâminas e demais acessórios utilizados na aplicação de Insulfilm, PPF e películas arquitetônicas. Modelo resistente, confortável e ideal para uso profissional em serviços automotivos e arquitetônicos. Especificações Técnicas Quantidade de compartimentos: 14 Modelo: Cintura Material: Tecido reforçado de alta durabilidade Indicação: Organização de ferramentas para aplicação de películas Uso: Profissional Benefícios Facilita o transporte das ferramentas Mantém os itens organizados e acessíveis Material resistente para uso diário Ideal para instaladores profissionais Melhora a produtividade no serviço",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "14,00",
+      "Altura do Produto": "30,00",
+      "Profundidade do produto": "5,00"
+    }
+  },
+  {
+    "sku": "220196",
+    "nome": "Rodo 15cm com Borracha para Insulfilm",
+    "preco": 15,
+    "estoque": 28,
+    "ativo": true,
+    "descricao": "Rodo 15cm com Borracha – Uso Profissional Ferramenta indicada para aplicação e acabamento de Insulfilm, PPF e Películas Arquitetônicas. Possui borda de borracha que auxilia na remoção de água e solução de aplicação, contribuindo para melhor aderência da película e acabamento uniforme. Modelo leve, prático e de fácil manuseio, ideal para uso profissional em serviços automotivos e arquitetônicos. Especificações Técnicas Tamanho: 15cm Material: Corpo rígido com borda em borracha Indicação: Insulfilm, PPF e Películas Arquitetônicas Uso: Profissional Benefícios Remove água com eficiência Auxilia no acabamento da aplicação Não agride a película Leve e fácil de manusear Excelente custo-benefício",
+    "categoria": "Peças e Acessórios para Veículos>>ferramentas veiculares>>Outros",
+    "atributos": {
+      "Unidade": "Un",
+      "Marca": "Prospper Imports",
+      "Meses Garantia no Fornecedor": "0",
+      "Condição do Produto": "NOVO",
+      "Unidade de Medida": "Centímetro",
+      "Largura do produto": "14,00",
+      "Altura do Produto": "30,00",
+      "Profundidade do produto": "5,00"
+    }
+  }
+]
